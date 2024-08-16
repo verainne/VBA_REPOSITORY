@@ -1,4 +1,8 @@
 # VBA_REPOSITORY
+Resources: https://stackoverflow.com/questions/62471422/vba-loop-how-to-get-ticker-symbols-into-ticker-column
+I also checked what I wrote against this students, who's completed this in the past
+https://github.com/thaychansy/vba-challenge/blob/main/tickerStock.vbs
+But tried not to copy it exactly, cause there's no learning in that.
 
 Sub tickerloop()
 'Loop through worksheets

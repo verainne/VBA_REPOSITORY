@@ -1,7 +1,4 @@
 # VBA_REPOSITORY
-I used a few different reddit forums
-https://www.thespreadsheetguru.com/last-row-column-vba/
-
 
 Sub tickerloop()
 'Loop through worksheets
